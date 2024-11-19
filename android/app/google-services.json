@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519573135224",
+    "project_id": "lightness-app-3d9cc",
+    "storage_bucket": "lightness-app-3d9cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519573135224:android:2f72d9c611806c3a4a328d",
+        "android_client_info": {
+          "package_name": "com.example.social_network"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yB3WlC3s_OVMPaqMg7NKFHpNAJkPKyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
